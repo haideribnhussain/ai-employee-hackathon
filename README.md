@@ -100,3 +100,10 @@ Watch the AI Employee in action:
 - Hackathon: Personal AI Employee Hackathon 0
 - Tier: Bronze
 - Submit: https://forms.gle/JR9T1SJq5rmQyGkGA
+
+## Screenshots
+
+### Obsidian Dashboard
+![Dashboard](./obsidian_dashboard.png)
+
+
